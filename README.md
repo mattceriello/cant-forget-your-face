@@ -1,5 +1,5 @@
-# CSCI-3308-Fall21-011-08
-Can’t Forget Your Face
+# Can’t Forget Your Face
+
 
 Heroku Link: https://cant-forget-your-face.herokuapp.com
 
